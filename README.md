@@ -41,5 +41,6 @@ YOLOv8 is one of the fastest and most accurate real-time vision systems in the w
 
 ---
 
-## 📂 Project Structure
+## 📂 Project link hosted by streamlit: 
+https://visionguardai-ebamkg4ucl4aq4borw7v5q.streamlit.app/
 
